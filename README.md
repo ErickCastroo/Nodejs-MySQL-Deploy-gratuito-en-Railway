@@ -19,3 +19,4 @@ Esta ruta se utiliza para probar la conexión con la base de datos MySQL. Cuando
 ### 3. `/create`
 https://nodejs-mysql-railway-production-8772.up.railway.app/create
 Esta ruta se utiliza para crear un nuevo usuario en la base de datos MySQL. Cuando se envía una solicitud POST a esta ruta con los detalles del nuevo usuario en el cuerpo de la solicitud, la aplicación crea un nuevo registro de usuario en la base de datos(SI REFRESCAS LA PAGINA PRINCIPAL SE VERA EL REGISTRO NUEVO).
+
